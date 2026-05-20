@@ -1,9 +1,9 @@
 # Hi, I'm Oleg
 
-[![Website](https://img.shields.io/badge/agentveil.dev-111111?style=flat-square)](https://agentveil.dev)
-[![GitHub Org](https://img.shields.io/badge/agentveil--protocol-111111?style=flat-square&logo=github)](https://github.com/agentveil-protocol)
+[![Website](https://img.shields.io/badge/agentveil.dev-16A34A?style=flat-square)](https://agentveil.dev)
+[![GitHub Org](https://img.shields.io/badge/agentveil--protocol-6F42C1?style=flat-square&logo=github&logoColor=white)](https://github.com/agentveil-protocol)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olegboikoo)
-[![Email](https://img.shields.io/badge/email-ob%40agentveil.dev-111111?style=flat-square)](mailto:ob@agentveil.dev)
+[![Email](https://img.shields.io/badge/ob%40agentveil.dev-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ob@agentveil.dev)
 
 AI and data infrastructure architect focused on risk, control, and verifiable decision systems.
 
@@ -11,9 +11,9 @@ I build action-control infrastructure for autonomous agents: local capability sc
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-111111?style=flat-square)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-111111?style=flat-square)
-![Verifiable Proof](https://img.shields.io/badge/Verifiable_Proof-111111?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-7C3AED?style=flat-square)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-DB2777?style=flat-square)
+![Verifiable Proof](https://img.shields.io/badge/Verifiable_Proof-059669?style=flat-square)
 
 ## Current work
 
