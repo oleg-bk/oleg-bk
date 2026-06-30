@@ -7,8 +7,6 @@
 
 AI and data infrastructure architect focused on risk, control, and verifiable decision systems.
 
-I build action-control infrastructure for autonomous agents: local capability scanning before deployment, runtime gates for risky actions, signed receipts after execution, and reputation-aware trust signals.
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-7C3AED?style=flat-square)
