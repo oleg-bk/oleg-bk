@@ -23,4 +23,4 @@ AI and data infrastructure architect focused on risk, control, and verifiable de
 
 ## Focus
 
-`action control` · `signed receipts` · `agent reputation` · `capability scanning` · `MCP workflows` · `verifiable evidence`
+agent autonomy control · runtime action control · policy-driven redirection · safe execution alternatives · approval minimization · MCP workflow governance · verifiable execution evidence
